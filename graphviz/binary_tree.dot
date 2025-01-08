@@ -1,0 +1,14 @@
+digraph BinaryTree {
+	A->B;
+	B->D;
+	B->E;
+	A->C;
+	C->F;
+	A;
+	B;
+	C;
+	D;
+	E;
+	F;
+
+}
